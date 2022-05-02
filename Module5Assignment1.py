@@ -24,7 +24,7 @@ def convert():
 
 # Create the main window:
 root = tk.Tk()
-root.title("Temperature Converter")
+root.title("Temperature Converter GUI Application")
 root.resizable(0,0) #Code added by me in order to prohibit resizing of the Tkinrer window
 
 
